@@ -4,7 +4,7 @@ Converts the [EDUCAUSE Annual Conference Agenda](https://events.educause.edu/ann
 This was requested on the [EDUCAUSE CIO mailing list](http://listserv.educause.edu/scripts/wa.exe?A2=ind1609&L=CIO&P=175569),
 so I thought it would be fun to throw together.
 
-[Download the spreadsheet](educause_sessions.xlsx)
+[Download the spreadsheet](blob/master/educause_sessions.xlsx?raw=true)
 
 If you want to run this yourself:
 
