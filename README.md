@@ -10,5 +10,6 @@ If you want to run this yourself:
 
 ```
 git clone https://github.com/loganfranken/educause-agenda-xls
+cd educause-agenda-xls
 npm start
 ```
