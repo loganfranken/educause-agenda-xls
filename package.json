@@ -1,0 +1,25 @@
+{
+  "name": "educause-agenda-xls",
+  "version": "1.0.0",
+  "description": "Converts the EDUCAUSE Annual Conference Agenda into an Excel spreadsheet",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loganfranken/educause-agenda-xls.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loganfranken/educause-agenda-xls/issues"
+  },
+  "homepage": "https://github.com/loganfranken/educause-agenda-xls",
+  "dependencies": {
+    "node-xlsx": "^0.7.2",
+    "request": "^2.75.0"
+  },
+  "devDependencies": {}
+}
